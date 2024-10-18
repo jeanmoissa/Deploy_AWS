@@ -1,5 +1,5 @@
 # Deploy Amazon
 
-* Exemplo de programa utilizando AWS para alocação de projeto
+* Exemplo de programa utilizando AWS para alocação de projeto.
 
-<a href="http://54.207.135.38:3333/">AWS Server</a>
+Link do Servidor: <a href="http://54.207.135.38:3333/">AWS Server</a>
